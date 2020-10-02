@@ -12,9 +12,9 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
-| Kelas | TI-3D/3E |
+| NIM | **1841720148** |
+| Nama Lengkap | **Hunayn Risatayn** |
+| Kelas | TI-3E |
 
 
 ## Struktur Folder
@@ -33,4 +33,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(nama lengkap Anda)***
+***(Hunayn Risatayn)***
