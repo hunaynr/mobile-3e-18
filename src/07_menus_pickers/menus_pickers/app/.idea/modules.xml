@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="menus_pickers/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-716473920/menus_pickers.iml" filepath="$PROJECT_DIR$/.idea/modules/-716473920/menus_pickers.iml" group="menus_pickers" />
+    </modules>
+  </component>
+</project>

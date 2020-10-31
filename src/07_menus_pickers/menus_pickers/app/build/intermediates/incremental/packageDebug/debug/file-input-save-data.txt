@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Oct 26 09:34:50 ICT 2020
+0.baseType=DIRECTORY
+0.base=D\:\\data\\Users\\User\\Documents\\AndroidStudio\\Mobile_Programming_AndroidStudio\\src\\06_input_control\\menus_pickers\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
