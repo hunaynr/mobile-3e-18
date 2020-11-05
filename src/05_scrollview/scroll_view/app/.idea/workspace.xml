@@ -7,6 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9513043f-d464-485b-877e-d893c492d7cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../docs/06_input_control/06.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../docs/06_input_control/06.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../docs/07_menus_pickers/07.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../docs/07_menus_pickers/07.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +16,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="78f78219" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_28" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
