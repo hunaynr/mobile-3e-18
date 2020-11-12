@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/392676590/Skor_View_Model.iml" filepath="$PROJECT_DIR$/.idea/modules/392676590/Skor_View_Model.iml" group="Skor_View_Model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="Skor View Model/app" />
+    </modules>
+  </component>
+</project>
