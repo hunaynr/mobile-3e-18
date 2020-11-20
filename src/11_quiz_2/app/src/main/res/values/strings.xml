@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">project</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="common_name"><html><b>Common Name :</b></html> Lambsquarters</string>
+    <string name="family"><html><b>Family :</b></html> Amaranthaceae</string>
+    <string name="family_common_name"><html><b>Family Common Name :</b></html> Goosefoot family</string>
+    <string name="genus"><html><b>Genus :</b></html> Chenopodium</string>
+    <string name="scientific_name"><html><b>Scientific Name :</b></html> Chenopodium album</string>
+    <string name="invented_year"><html><b>Invented Year :</b></html> 1753</string>
+</resources>
