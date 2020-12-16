@@ -1,0 +1,80 @@
+[
+  {
+    "plantId": "1",
+    "name": "Apple",
+    "description": "An apple is an edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today.\n\nCommon Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Apple_orchard_in_Tasmania.jpg"
+  },
+  {
+    "plantId": "2",
+    "name": "Beet",
+    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "imageUrl": "https://static.pexels.com/photos/264101/pexels-photo-264101.jpeg"
+  },
+  {
+    "plantId": "3",
+    "name": "Celery",
+    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/A_scene_of_Coriander_leaves.JPG"
+  },
+  {
+    "plantId": "4",
+    "name": "Tomato",
+    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Cherry_tomatoes_red_and_green_2009_16x9.jpg"
+  },
+  {
+    "plantId": "5",
+    "name": "Avocado",
+    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Branch_and_fruit_of_the_Maluma_avocado_cultivar.jpg"
+  },
+  {
+    "plantId": "6",
+    "name": "Pear",
+    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/More_pears.jpg"
+  },
+  {
+    "plantId": "7",
+    "name": "Eggplant",
+    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Eggplant_display.JPG"
+  },
+  {
+    "plantId": "8",
+    "name": "Grape",
+    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Grape_Plant_and_grapes9.jpg"
+  },
+  {
+    "plantId": "9",
+    "name": "Mango",
+    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Mangos_criollos_y_pera.JPG"
+  },
+  {
+    "plantId": "10",
+    "name": "Orange",
+    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Apfelsinenbaum--Orange_tree.jpg"
+  },
+  {
+    "plantId": "11",
+    "name": "Rose",
+    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bouquet_de_roses_roses.jpg"
+  },
+  {
+    "plantId": "12",
+    "name": "Watermelon",
+    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/01266jfWatermelons_Philippines_textures_Apolonio_Samson_Market_Quezon_Cityfvf_02.jpg"
+  },
+  {
+    "plantId": "13",
+    "name": "Hibiscus",
+    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Hibiscus_rosa-sinensis_flower_2.JPG"
+  }
+]
