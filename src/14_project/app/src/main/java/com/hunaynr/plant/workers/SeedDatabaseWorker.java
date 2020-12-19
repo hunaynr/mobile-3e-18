@@ -1,10 +1,6 @@
 package com.hunaynr.plant.workers;
 
-import android.content.Context;
-
 import androidx.annotation.NonNull;
-import androidx.work.Worker;
-import androidx.work.WorkerParameters;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
@@ -14,11 +10,9 @@ import com.hunaynr.plant.data.Plant;
 import java.io.InputStream;
 import java.util.List;
 
-public class SeedDatabaseWorker extends Worker {
+import androidx.work.Worker;
 
-    public SeedDatabaseWorker(@NonNull Context context, @NonNull WorkerParameters workerParams) {
-        super(context, workerParams);
-    }
+public class SeedDatabaseWorker extends Worker {
 
     @NonNull
     @Override
@@ -34,10 +28,10 @@ public class SeedDatabaseWorker extends Worker {
             }.getType());
             AppDatabase appDatabase = AppDatabase.getInstance(getApplicationContext());
             appDatabase.plantDao().insertAll(plantList);
-            return Result.success();
+            return Result.SUCCESS;
         } catch (Exception e) {
             e.printStackTrace();
-            return Result.failure();
+            return Result.FAILURE;
         }
     }
 }
